@@ -1,9 +1,10 @@
 # ------------------------------------------------
-# Program by Denis Astahov
+# Program by Alexander Ilves
 #
 #
 # Version      Date           Info
 # 1.0          13-Dec-2019    Initial Version
+# 2.0          12-Feb-2022    AWS Version
 #
 # ----------------------------------------------
 from flask import Flask, render_template
